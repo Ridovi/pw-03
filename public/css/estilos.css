@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700|Roboto+Slab');
+
+body{
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/fresh_snow.png);
+    background-repeat: repeat;
+    background-attachment: scroll;
+    font-family: 'Lato', sans-serif;
+}
+
+h1, h2{
+    font-family: 'Roboto', sans-serif;
+    color: orangered;
+}
+
+.carousel-item{
+    max-height: 400px;
+    min-height: 300px;
+}
+
+.footer{
+    background-color:dimgray;
+}
+
+.jumbotron{
+    margin-top: 10px;
+    padding: 10px;
+    background-color: white;
+}
